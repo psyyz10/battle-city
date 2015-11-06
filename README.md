@@ -1,1 +1,5 @@
-# battle-city
+## Battle City Tank War Game
+This is a C++ programming course project. We required to implement a game with different levels of intelligence. With hard work through most Easter holiday, the game ‘Battle City’ was finished, which is a modificated version of my favorite video game in my childhood. User can choose servral levels with different map. There are many game props in the game, such as time frozen, short invincible state, bomb and so on. The enemy tank has different four levels of intelligence. They can search the shortest path to the player. They have different lookings, speed, health and base damage. The game was developed with **C++** by hand without using any other game library. The marker said that it is a successfully reproduce of the classic tank war game. It was given a top ranked mark 82. And the game was requested shown in **the Hall of Fame as an excellent example**. The source code can be accessed [here](https://github.com/psyyz10/battle-city). 
+<center>
+	<img src="https://psyyz10.github.io/projects/BC.png" width= "800">
+</center>
